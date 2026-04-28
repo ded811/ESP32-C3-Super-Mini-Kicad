@@ -5435,7 +5435,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "2450AT18A0100001E"
+		(property "MPN" "2450AT18A0100001"
 			(at 27.94 100.33 90)
 			(effects
 				(font
@@ -6805,7 +6805,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15pF"
+		(property "Value" "22pF"
 			(at 167.64 143.256 0)
 			(effects
 				(font
@@ -8207,6 +8207,24 @@
 			)
 		)
 		(property "Stability" "±10ppm over temp"
+			(at 187.96 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "X322540MPB4SI"
+			(at 187.96 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C9010"
 			(at 187.96 142.24 0)
 			(effects
 				(font
@@ -10148,7 +10166,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15pF"
+		(property "Value" "22pF"
 			(at 208.28 143.256 0)
 			(effects
 				(font
